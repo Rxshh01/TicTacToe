@@ -1,0 +1,27 @@
+.container{
+    text-align:center;
+}
+.title{
+    color:aliceblue;
+}
+.board{
+    display:flex;
+ justify-content: center;
+
+}
+.boxes{
+    display: flex;
+    height: 100px;
+    margin: 5px 2.5px;
+    width: 100px;
+    background-color: aliceblue;
+    cursor: pointer;
+    padding: 5px;
+    
+}
+.boxes img{
+    height: 50px;
+    width: 50px;
+    
+    margin: 25% 25%;
+}
